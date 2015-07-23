@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/infrared",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the infrared module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-infrared",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-infrared",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-infrared/issues",
+  "dependencies": []
+}
+
