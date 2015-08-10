@@ -22,7 +22,7 @@
 
 class infrared::no {
     case $::osfamily {
-        'darwin': { include infrared::no::darwin }
-        default:  { unimplemented() }
+        'Darwin': { include infrared::no::darwin }
+        default:  { fail "unimplemented on ${::osfamily}" }
     }
 }
